@@ -1,5 +1,3 @@
-![Ocean's GitHub stats](https://github-readme-stats.vercel.app/api?username=oceanlee-seoul&theme=dark&show_icons=true)
-
 ## 안녕하세요! 👋  
 저는 밝고 긍정적인 태도로 꾸준히 성장하는 신입 프론트엔드 개발자, **이대양**입니다.  
 
@@ -11,7 +9,7 @@
 
 ---
 
-### **기술 스택**
+### **Tech Stack**
 
 | Language & Framework     | Styling                  | Library & Tools                    |
 | -------------------------| ------------------------ | ---------------------------------- |
@@ -19,7 +17,4 @@
 
 ---
 
-### **블로그**
-
-- **Blog**: [5ceanward](https://5ceanward.tistory.com/)
-
+![Ocean's GitHub stats](https://github-readme-stats.vercel.app/api?username=oceanlee-seoul&theme=dark&show_icons=true)
