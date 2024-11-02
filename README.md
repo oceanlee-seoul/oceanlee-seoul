@@ -1,29 +1,25 @@
-### I code, therefore I exist.
+![Ocean's GitHub stats](https://github-readme-stats.vercel.app/api?username=oceanlee-seoul&theme=dark&show_icons=true)
 
-<p>LANGUAGES</p> 
-<div>
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-<img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> 
-</div>
-<br>
-<p>STYLING</p> 
-<div>
-<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/Sass-C69?style=for-the-badge&logo=sass&logoColor=white"> 
-<img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> 
-<img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> 
+## 안녕하세요! 👋  
+저는 밝고 긍정적인 태도로 꾸준히 성장하는 신입 프론트엔드 개발자, **이대양**입니다.  
 
-</div>
-<br>
-<p>FRAMEWORKS</p>
-<div>
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-</div>
-<br>
-<p>DESIGN TOOL</p>
-<div>
-<img src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge">
-</div>
+### **“I code, therefore I exist.”**
+
+데카르트의 "**나는 생각한다, 고로 존재한다**"처럼,  
+저는 개발을 통해 저의 존재를 증명합니다.  
+팀원들과 소통하며 사용자에게 편리한 서비스를 제공할 때 가장 큰 성취감을 느낍니다.
+
+---
+
+### **기술 스택**
+
+| Language & Framework     | Styling                  | Library & Tools                    |
+| -------------------------| ------------------------ | ---------------------------------- |
+| **JavaScript, TypeScript, React, Next.js** | **Tailwind CSS, Vanilla Extract** | **Tanstack-query, Redux-toolkit, Git, Jira** |
+
+---
+
+### **블로그**
+
+- **Blog**: [5ceanward](https://5ceanward.tistory.com/)
+
